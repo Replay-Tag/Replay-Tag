@@ -5,7 +5,7 @@
 - 🌱 Knowledge: Been learning unityengine since 2020
 - 🌱 Knowledge: Been learning C# since 2022
 - 🌱 Knowledge: Starting to learn UnrealEngine
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiReplay-Tag=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![](https://github-readme-stats.vercel.app/api?username=replay-tag&show_icons=true&card_width=1000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **Replay-Tag/Replay-Tag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

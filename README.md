@@ -2,7 +2,10 @@
 - 🌱 I code stuff i guess
 - 😄 Pronouns: they/them
 - 🐼 PandaLife: I LOVE PANDA THEY THE BEST
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiReplay-Tag=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Knowledge: Been learning unityengine since 2020
+- 🌱 Knowledge: Been learning C# since 2022
+- 🌱 Knowledge: Starting to learn UnrealEngine
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiReplay-Tag=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Replay-Tag/Replay-Tag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

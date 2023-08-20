@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there Im replay 👋
+- 🌱 I code stuff i guess
+- 😄 Pronouns: they/them
+- 🐼 PandaLife: I LOVE PANDA THEY THE BEST
 
 <!--
 **Replay-Tag/Replay-Tag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

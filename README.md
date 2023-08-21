@@ -1,10 +1,16 @@
 ### Hi there Im replay 👋
+
+- Random stuff
+
 - 🌱 I code stuff i guess
 - 😄 Pronouns: they/them
 - 🐼 PandaLife: I LOVE PANDA THEY THE BEST
-- 🌱 Knowledge: Been learning unityengine since 2020
-- 🌱 Knowledge: Been learning C# since 2022
-- 🌱 Knowledge: Starting to learn UnrealEngine
+
+- Knowledge
+
+- Started learning unity since 2020
+- started learning c# since 2020
+- been using blender since around 2021
 - [![](https://github-readme-stats.vercel.app/api?username=Replay-Tag&show_icons=true&card_width=1000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--

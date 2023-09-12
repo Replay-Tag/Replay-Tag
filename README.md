@@ -3,7 +3,6 @@
 - Random stuff
 
 - 🌱 I code stuff i guess
-- 😄 Pronouns: they/them
 - 🐼 PandaLife: I LOVE PANDA THEY THE BEST
 
 - Knowledge

@@ -9,7 +9,7 @@
 
 - Started learning unity since 2020
 - started learning c# since 2020
-- been using blender since around 2021
+- been using blender since around 2021 (Doesn't mean i learned it 😞)
 
 <!--
 **Replay-Tag/Replay-Tag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,17 +1,17 @@
 ### Hi there Im replay 👋
 
-- Random stuff
+- Random stuff:
 
 - 🌱 I code stuff i guess
 - 🐼 PandaLife: I LOVE PANDA THEY THE BEST
 
-- Knowledge
+- Knowledge:
 
 - Started learning unity since 2020
 - started learning c# since 2020
 - been using blender since around 2021 (Doesn't mean i learned it 😞)
   
-- Me Stuff
+- Me Stuff:
 
 - Founder Of Replay Games
 - Also goes by Cozy Replay

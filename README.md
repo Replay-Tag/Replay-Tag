@@ -13,7 +13,7 @@
   
 - Me Stuff:
 
-- Founder Of [Replay Games](https://zezzyzez5.wixsite.com/replay-games)
+- Founder Of Replay Games
 - Also goes by Cozy Replay
 - Don't really go by Replay-Tag anymore just Replay
 - I Make 2D Animation Videos on Youtube

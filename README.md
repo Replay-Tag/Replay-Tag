@@ -13,13 +13,13 @@
   
 - Me Stuff:
 
-- Founder Of Replay Games
+- Founder Of [Replay Games](https://zezzyzez5.wixsite.com/replay-games)
 - Also goes by Cozy Replay
 - Don't really go by Replay-Tag anymore just Replay
 - I Make 2D Animation Videos on Youtube
-- My Youtube: www.youtube.com/@replaytag
+- [My Youtube](www.youtube.com/@replaytag)
 - I Have my own Fandom Wiki of like the lore of the 2D Animation Videos
-- My Fandom Wiki: https://the-replaytag-cinematic-universe.fandom.com/wiki/The_Replay-Tag_Cinematic_Universe_Wiki
+- [My Fandom Wiki]([www.youtube.com/@replaytag](https://the-replaytag-cinematic-universe.fandom.com/wiki/The_Replay-Tag_Cinematic_Universe_Wiki))
 <!--
 **Replay-Tag/Replay-Tag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
